@@ -2,7 +2,7 @@
 
 Growth & Performance Marketer with a technical backbone. I specialize in scaling paid ads, building resilient CRM systems, and engineering hands-off marketing automations. 
 
-> Currently building growth utilities, refining data pipelines, and working at [notsocreative.studio](https://www.notsocreative.studio).
+Currently building growth utilities, refining data pipelines, and working at [notsocreative.studio](https://www.notsocreative.studio).
 ---
 
 ### 🛠️ What I Work With
