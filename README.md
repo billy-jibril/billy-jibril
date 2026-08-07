@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Jibril/Billy 👋
 
-<!--
-**billy-jibril/billy-jibril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Growth & Performance Marketer with a technical backbone. I specialize in scaling paid ads, building resilient CRM systems, and engineering hands-off marketing automations.
 
-Here are some ideas to get you started:
+Currently building growth utilities, refining data pipelines, and working at https://notsocreative.studio 
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I Work With
+* **Performance & Media:** Meta Ads, Google Ads, LinkedIn Ads
+* **MarTech & CRM:** HubSpot, Brevo, Qontak, Manychat
+* **Data & Analytics:** GTM/GA4, Posthog, Metabase, Data Studio
+
+---
+
+### 🧪 What You'll Find Here
+- Data-driven growth tools & AI prompt frameworks
+- Open-source automation blueprints & workflow exports
+- Custom tracking, GTM container schemas
+
+---
+
+📫 **Get in touch:** [LinkedIn](www.linkedin.com/in/jibril-m/) 
