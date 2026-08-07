@@ -1,8 +1,6 @@
-## Hi, I'm Jibril/Billy 👋
+### Hi, I'm Jibril/Billy 👋
 ---
-Growth & Performance Marketer with a technical backbone. I specialize in scaling paid ads, building resilient CRM systems, and engineering hands-off marketing automations.
-
-Currently building growth utilities, refining data pipelines, and working at www.notsocreative.studio
+Growth & Performance Marketer with a technical backbone. I specialize in scaling paid ads, building resilient CRM systems, and engineering hands-off marketing automations. Currently building growth utilities, refining data pipelines, and working at www.notsocreative.studio
 ---
 
 ### 🛠️ What I Work With
