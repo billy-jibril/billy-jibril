@@ -8,15 +8,16 @@ Currently building growth utilities, refining data pipelines, and working at [no
 
 ### 🛠️ What I Work With
 * **Performance & Media:** Meta Ads, Google Ads, LinkedIn Ads
-* **MarTech & CRM:** HubSpot, Brevo, Qontak, Manychat
+* **MarTech & CRM:** HubSpot, Brevo, Qontak, Zoho
 * **Data & Analytics:** GTM/GA4, Posthog, Metabase, Data Studio
 
 ---
 
 ### 🧪 What You'll Find Here
-- Data-driven growth tools & AI prompt frameworks
-- Open-source automation blueprints & workflow exports
-- Custom tracking, GTM container schemas
+* `ai-skills/` — Canva, PDF generation, 1-pagers, reporting, and "Marcus" growth mentor
+* `growth-automation/` — Meeting notes summary, Brevo lead scoring, marketing-to-sales lead pipeline
+* `seo-utilities/` — Schema & website auditor, YouTube SEO, keyword research workflows
+* `writing-prompts/` — Anti-AI slop filters & Javanese cultural safety ("Slaman, Slumun, Slamet")
 
 ---
 
